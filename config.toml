@@ -10,7 +10,7 @@ locales = [
 ]
 
 [env]
-    l = "{locale}/"
+    l = "{locale}"
 
 [[paths]]
     reference = "en-US/strings.properties"
